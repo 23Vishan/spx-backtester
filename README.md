@@ -1,1 +1,1 @@
-# spx-backtester
+# SPX Backtester
